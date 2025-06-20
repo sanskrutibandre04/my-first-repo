@@ -1,2 +1,3 @@
 # my-first-repo
-Author - Sanskruti Bandre
+git add . 
+git commit -m "Added hello.txt"
