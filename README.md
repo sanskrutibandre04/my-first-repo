@@ -1,3 +1,4 @@
 # my-first-repo
-git add . 
-git commit -m "Added hello.txt"
+this is my first Git Repository.
+
+Author - Sanskruti Bandre
